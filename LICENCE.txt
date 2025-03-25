@@ -1,0 +1,43 @@
+ANMON PROPRIETARY LICENSE version 1.0 (APLv1)
+
+IMPORTANT – READ CAREFULLY.
+THIS IS A LEGALLY BINDING CONTRACT BETWEEN YOU (“LICENSEE”) AND ANMON (“LICENSOR”).
+BY USING, INSTALLING, OR ACCESSING THE SOFTWARE, YOU AGREE TO THE TERMS BELOW.
+
+Grant of License
+1.1. Licensor hereby grants Licensee a revocable, non-transferable, non-sublicensable, non-exclusive license to access and use the Software solely for internal evaluation purposes, subject to strict compliance with this Agreement.
+1.2. No rights beyond those explicitly granted herein are provided, either by implication or otherwise.
+
+Restrictions on Use
+2.1. Licensee shall not, under any circumstances:
+   - Modify, alter, copy, reproduce, distribute, or create derivative works of the Software in whole or in part;
+   - Reverse-engineer, decompile, disassemble, or otherwise attempt to derive the source code or any underlying structure of the Software;
+   - Use the Software for any commercial, competitive, or public-facing purpose;
+   - Permit any third party to access, use, or benefit from the Software without explicit prior written authorization from Licensor.
+2.2. The Software and any related documentation may not be integrated into any other system, software, or service.
+
+Intellectual Property Rights
+3.1. All rights, title, and interest in and to the Software (including copyrights, trade secrets, patents, and trademarks) remain exclusively with Licensor.
+3.2. Licensee acknowledges that no ownership rights are granted by this Agreement.
+
+Confidentiality
+4.1. Licensee agrees to treat the Software, all documentation, and any disclosed technical information as strictly confidential.
+4.2. Licensee shall not disclose any part of the Software or its internal workings to any third party without the express written consent of Licensor.
+
+Warranty Disclaimer and Limitation of Liability
+5.1. THE SOFTWARE IS PROVIDED “AS IS” WITHOUT ANY WARRANTY, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+5.2. LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THE USE OR INABILITY TO USE THE SOFTWARE.
+
+Termination
+6.1. This Agreement is effective until terminated by Licensor in its sole discretion.
+6.2. Licensor may terminate this Agreement immediately, without notice, for any breach of its terms by Licensee.
+6.3. Upon termination, Licensee must immediately cease all use of the Software and destroy all copies and any derivative works thereof.
+
+Miscellaneous
+7.1. This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes any prior understandings or agreements.
+7.2. Licensee may not assign or transfer any rights under this Agreement without the prior written consent of Licensor.
+7.3. Any waiver or modification of this Agreement must be in writing and signed by an authorized representative of Licensor.
+7.4. If any provision of this Agreement is found to be unenforceable, the remaining provisions shall remain in full force and effect.
+7.5. This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of laws principles.
+
+BY INSTALLING, ACCESSING, OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY ALL TERMS OF THIS LICENSE AGREEMENT.
