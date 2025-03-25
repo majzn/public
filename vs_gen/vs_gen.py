@@ -88,7 +88,7 @@ DEFAULT_OUTPUT_TEMPLATES: Dict[str, str] = {
     "double_death": "got killed by {causes}",
     "multiple_deaths": "was undone **{count}** times by {causes}",
     "single_kill": "only got a single kill, namely {kills}",
-    "double_kill": "managed two whole kills - {kills} ...please clap!",
+    "double_kill": "managed two whole kills - {kills} ...please clap",
     "multiple_kills": "murdered **{count}** enemies, notably {kills}",
     "unscathed": "remained unscathed.",
     "storm_occurred": (
