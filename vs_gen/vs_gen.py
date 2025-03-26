@@ -105,7 +105,7 @@ DEFAULT_OUTPUT_TEMPLATES: Dict[str, str] = {
         "A **shitstorm** is approaching, expected to start at **{start}**."
     ),
     "storm_ending": "A **shitstorm** is ending at **{end}**.",
-    "no_events": "Nothing ever happens\n<:chudover:1352366576317501461>",
+    "no_events": "Nothing ever happens <:chudover:1352366576317501461>",
     "chunk_summary": "**{count}** new map chunk(s) were added."
 }
 
@@ -116,7 +116,7 @@ RE_QUANTITY: re.Pattern = re.compile(r"(\d+)x")
 RE_DEATH_PREFIX: re.Pattern = re.compile(r"^(got killed by|died)\s+", re.I)
 
 # Regex for offthread map chunks events (only messages like "Offthread save of ... map chunks done")
-OFFTHREAD_MAP_CHUNK_REGEX: re.Pattern = re.compile(r"^offthread save of (\d+)\s+map\s+chunks done", re.I)
+OFFTHREAD_MAP_CHUNK_REGEX: re.Pattern = re.compile(r"^offthread save of (\d+)\s+chunks done", re.I)
 
 
 def compile_player_prefix(player: str) -> re.Pattern:
