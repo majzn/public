@@ -1,5 +1,5 @@
 
-# vs_gen v0.10
+# vs_gen v0.10.0
 
 # Log file based summary generator for Vintage Story
 # Copyright Anmon 2025 All Rights Reserved
