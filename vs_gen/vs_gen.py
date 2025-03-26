@@ -105,7 +105,7 @@ DEFAULT_OUTPUT_TEMPLATES: Dict[str, str] = {
         "A **shitstorm** is approaching, expected to start at **{start}**."
     ),
     "storm_ending": "A **shitstorm** is ending at **{end}**.",
-    "no_events": "Nothing ever happens <:chudover:1352366576317501461>",
+    "no_events": "Nothing ever happens  <:chudover:1352366576317501461>",
     "chunk_summary": "**{count}** new map chunk(s) were added."
 }
 
